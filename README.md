@@ -1,6 +1,8 @@
 # Project V - Recommendation Engine
 ![Proj](https://img.shields.io/badge/proj-wip-yellowgreen.svg)
 
+Project structure make reference of [this page](https://docs.python-guide.org/writing/structure/).
+
 ## Data Source
 
 ## Methodology
